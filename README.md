@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats-one-teal.vercel.app/api?username=gurkansanli)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-one-teal.vercel.app/api?username=gurkansanli&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=gurkansanli)](https://git.io/streak-stats)
 <!--
 **gurkansanli/gurkansanli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
