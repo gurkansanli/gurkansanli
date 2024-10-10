@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Gürkan
 
-I have been a passionate Fullstack .NET developer since 2017, building and maintaining web applications. I have a strong background in .NET, C#, and Angular 17+, AngularJS and I enjoy working on scalable and efficient solutions.
+I have been a passionate .NET developer since 2017. I have 3 years of professional work experience in .NET Core, AngularJS, Angular, and Entity Framework, specializing in building scalable web applications and B2B integrations. I focus on delivering clean, maintainable code while solving complex problems with performance-driven solutions. With a strong emphasis on both backend services and dynamic front-end experiences, I enjoy creating impactful software that meets business needs.
 
 ### 💼 Professional Skills
 - **Backend Development**: .NET Core, ASP.NET, Entity Framework
