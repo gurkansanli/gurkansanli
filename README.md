@@ -27,7 +27,7 @@ I have been a passionate .NET Core developer since 2017. I have 3 years of profe
 
 
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats-one-teal.vercel.app/api?username=gurkansanli)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=gurkansanli)](https://git.io/streak-stats)
