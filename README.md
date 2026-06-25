@@ -68,12 +68,6 @@ business — not demos.
 
 > Also comfortable with legacy stacks I've shipped on: **AngularJS** and classic **ASP.NET**.
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gurkansanli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurkansanli&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs"/>
-</p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gurkansanli&theme=tokyonight&hide_border=true" alt="streak"/>
 </p>
